@@ -1,0 +1,16 @@
+{
+  "name": "lucas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boleto.js": "^1.1.2",
+    "express": "^4.17.1",
+    "jsdom": "^15.2.1"
+  }
+}
